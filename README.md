@@ -48,19 +48,10 @@
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RUPAKparajuli07&show_icons=true&locale=en&layout=compact" alt="cr7" /></p>
 </center>
 <br>
-<br>
-<hr>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RUPAKparajuli07&show_icons=true&locale=en" alt="cr7" /> 
-<br>
-<hr>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&show_icons=true&locale=en" alt="cr7"  /> 
 </p>
-<br>
-<br>
-<hr>
 
 ## Github Status 🏆
 
