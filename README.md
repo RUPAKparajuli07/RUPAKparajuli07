@@ -26,7 +26,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@r_p07npl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r_p07npl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rupak parajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupak parajuli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rupak parajuli" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/rupak-parajuli-16884a254/)" alt="rupak parajuli" height="30" width="40" /></a>
 <a href="https://fb.com/rupak parajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rupak parajuli" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@rupakparajuli7537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rupakparajuli7537" height="30" width="40" /></a>
 
