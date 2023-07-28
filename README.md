@@ -52,8 +52,7 @@
 <hr>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RUPAKparajuli07&show_icons=true&locale=en" alt="cr7" /> <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="image not found" align="right" height="300" width="300"></p>
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RUPAKparajuli07&show_icons=true&locale=en" alt="cr7" /> 
 <br>
 <hr>
 <br>
