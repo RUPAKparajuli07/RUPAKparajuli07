@@ -65,7 +65,6 @@
 
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=RUPAKparajuli07&show_icons=true&theme=gradient" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&theme=gradient" width="48%" >
 <br>
 
