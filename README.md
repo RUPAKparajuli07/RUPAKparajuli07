@@ -44,6 +44,12 @@
 <br>
 <br>
 <hr>
+
+<h1>Github Status 🏆</h1>
+
+<hr>
+
+
 <center>
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RUPAKparajuli07&show_icons=true&locale=en&layout=compact" alt="cr7" /></p>
 </center>
@@ -53,7 +59,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&show_icons=true&locale=en" alt="cr7"  /> 
 </p>
 
-## Github Status 🏆
+
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&theme=gradient" width="48%" >
 <br>
