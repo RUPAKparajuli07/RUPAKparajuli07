@@ -16,7 +16,6 @@
   <br>
 <h3 anign="left">-💬 Ask me about **python**</h3>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="image not found" align="right" height="300" width="200">
 </center>
 <br>
 <br>
