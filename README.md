@@ -54,7 +54,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&show_icons=true&locale=en" alt="cr7"  /> 
 </p>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&theme=gradient" width="48%" >
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=RUPAKparajuli07&theme=react)
