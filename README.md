@@ -43,8 +43,11 @@
 <br>
 <br>
 <hr>
+
 <h1>Github Status 🏆</h1>
+
 <hr>
+
 <center>
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RUPAKparajuli07&show_icons=true&locale=en&layout=compact" alt="cr7" /></p>
 </center>
