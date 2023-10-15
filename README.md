@@ -44,6 +44,9 @@
 <br>
 <hr>
 
+[![An image of @rupakparajuli07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupakparajuli07)](https://holopin.io/@rupakparajuli07)
+<hr>
+
 <h1>Github Status 🏆</h1>
 
 <hr>
