@@ -32,12 +32,8 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50" />
   </a>
 </p>
-
-<br>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-<br>
-
 <p align="center">  
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -55,17 +51,8 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 </p>
-
-<br>
-<br>
 <hr>
-
-[![An image of @rupakparajuli07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupakparajuli07)](https://holopin.io/@rupakparajuli07)
-<hr>
-
-<h1>Github Status 🏆</h1>
-
-
+<h1 align="center">GitHub Status 🏆</h1>
 <p align="center">
   <a href="https://github.com/RUPAKparajuli07">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -84,13 +71,10 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
   <br/>
 </a>
 
-
 ![RUPAKparajuli's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RUPAKparajuli07&custom_title=RUPAKparajuli's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
-
+<hr>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RUPAKparajuli07/count.svg" />
 </p>
-
