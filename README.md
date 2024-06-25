@@ -17,7 +17,6 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
   
   <h3 align="center">Connect with me:</h3>
   <br>
-
 <p align="center">  
     <a href="https://www.facebook.com/RupakSpammy" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50" width="50" />
@@ -34,6 +33,7 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
+<br>
 <p align="center">  
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
