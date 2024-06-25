@@ -1,10 +1,16 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300" width="200">
+<p>
+Hello, my name is Rupak Parajuli, and I am proud to call Nepal my home. I recently graduated with a Diploma in Computer Engineering from Kathmandu Institute of Technology, an experience that not only equipped me with technical skills but also instilled in me a deep appreciation for problem-solving in the realm of technology.
 
-  <p>Hello, my name is Rupak Parajuli, and I hail from the beautiful country of Nepal. I recently completed my Diploma in Computer Engineering from Kathmandu Institute of Technology, where I gained a solid foundation in various aspects of computer systems and programming. Throughout my academic journey, I've developed a keen interest in Python programming language, which has led me to delve deeper into its intricacies.
+My journey into the world of computer engineering began with a fascination for how technology shapes our daily lives. During my studies, I immersed myself in various subjects, from software development to network administration, gaining hands-on experience that solidified my passion for programming.
 
-I am passionate about leveraging Python's versatility and power to develop innovative solutions in areas such as data analysis, machine learning, and web development. My current focus is on honing my skills through hands-on projects and continuous learning, exploring Python's capabilities to create efficient and scalable software solutions.
+Python, with its elegance and versatility, captured my interest early on. I find its syntax intuitive yet powerful, making it an ideal tool for tackling complex problems in data analysis, automation, and web development. My current pursuits involve exploring advanced topics in Python, such as machine learning and artificial intelligence, areas where I see immense potential to innovate and create meaningful solutions.
 
-Outside of academics and programming, I enjoy exploring new technologies, reading about advancements in computer science, and engaging in outdoor activities that allow me to unwind and gain fresh perspectives. As I continue to grow in my career, I am excited about the opportunities to contribute meaningfully to the field of technology and make a positive impact through my work.
+Beyond academics, I am actively involved in community initiatives focused on promoting digital literacy among youth in Nepal. I believe in the transformative power of technology to bridge gaps and empower individuals, and I am committed to using my skills to contribute to positive change in my community and beyond.
+
+In my spare time, I enjoy staying updated on the latest developments in technology, participating in hackathons to challenge myself, and exploring the natural beauty of Nepal through hiking and photography. These experiences not only refresh my mind but also inspire new ideas and perspectives that I bring to my work.
+
+Looking ahead, I am enthusiastic about the opportunities to grow professionally, collaborate with like-minded individuals, and make a meaningful impact in the field of computer engineering. I am eager to continue learning and adapting to new technologies, ready to tackle the exciting challenges that lie ahead in this dynamic and ever-evolving industry.
   </p>
   <br>
   <hr>
