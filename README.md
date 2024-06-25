@@ -12,7 +12,8 @@
 <br>
 <br>
 <hr>
-<img src="https://github.com/RUPAKparajuli07/RUPAKparajuli07/blob/main/assets/110843279/b51d7ae4-39a4-4184-ad81-4183d17f0d2e.jpg" alt="image not found" align="left" height="300" width="200">
+<img src="https://www.behance.net/gallery/161921919/Portrait-animated-gif" alt="animated portrait" align="left" height="300" width="200">
+
 
 <center>
   <h1 align="center">Hi 👋, I'm Rupak Parajuli</h1>
