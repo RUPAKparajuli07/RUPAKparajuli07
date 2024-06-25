@@ -32,23 +32,37 @@
 <br>
 <br>
 <hr>
-<center>
   <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://twitter.com/@r_p07npl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r_p07npl" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rupakparajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupak parajuli" height="30" width="40" /></a>
-    <a href="https://fb.com/rupakparajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rupak parajuli" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/@rupakparajuli7537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rupakparajuli7537" height="30" width="40" /></a>
-  </p>
   <br>
-</center> 
+
+<p align="center">  
+    <a href="https://www.facebook.com/RupakSpammy" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/rupakascoder/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://twitter.com/@r_p07npl" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r_p07npl" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/iamspammy_7/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50" />
+  </a>
+</p>
+
+
+
+
+
+
+  
+
 <hr>
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <br>
 
 <p align="center">  
-  <!-- Add your other icons here -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -64,12 +78,6 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
-
-
-
-
-
-  <!-- Add other language icons as needed -->
 </p>
 
 <br>
