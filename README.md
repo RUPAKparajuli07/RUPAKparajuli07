@@ -75,6 +75,8 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
 
 <hr>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
+  <br>
+  <br>
   <img src="https://profile-counter.glitch.me/RUPAKparajuli07/count.svg" />
 </p>
