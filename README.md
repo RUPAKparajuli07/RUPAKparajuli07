@@ -25,7 +25,7 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
   <a href="https://www.linkedin.com/in/rupakascoder/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://twitter.com/@r_p07npl" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/rupak_spammy" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r_p07npl" height="50" width="50" />
   </a>
   <a href="https://www.instagram.com/iamspammy_7/" target="_blank" rel="noopener noreferrer">
