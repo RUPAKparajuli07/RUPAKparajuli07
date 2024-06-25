@@ -8,30 +8,20 @@
 </head>
 <body>
 
-
-<br>
-<br>
-<hr><img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="left" height="300" width="200">
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300" width="200">
 
 
 <center>
   <h1 align="center">Hi 👋, I'm Rupak Parajuli</h1>
+  <p>Hello, my name is Rupak Parajuli, and I hail from the beautiful country of Nepal. I recently completed my Diploma in Computer Engineering from Kathmandu Institute of Technology, where I gained a solid foundation in various aspects of computer systems and programming. Throughout my academic journey, I've developed a keen interest in Python programming language, which has led me to delve deeper into its intricacies.
+
+I am passionate about leveraging Python's versatility and power to develop innovative solutions in areas such as data analysis, machine learning, and web development. My current focus is on honing my skills through hands-on projects and continuous learning, exploring Python's capabilities to create efficient and scalable software solutions.
+
+Outside of academics and programming, I enjoy exploring new technologies, reading about advancements in computer science, and engaging in outdoor activities that allow me to unwind and gain fresh perspectives. As I continue to grow in my career, I am excited about the opportunities to contribute meaningfully to the field of technology and make a positive impact through my work.
+  </p>
   <br>
-  <h2 align="center">I am a student of computer engineering</h2><br>
-</center>
-<br>
-<br>
-<hr>
-<center>
-  <h3 align="left">🌱 I’m currently learning **python**</h3>
-  <br>
-  <h3 align="left">💬 Ask me about **python**</h3>
-</center>
-<br>
-<br>
-<br>
-<br>
-<hr>
+  <hr>
+  
   <h3 align="center">Connect with me:</h3>
   <br>
 
@@ -50,15 +40,8 @@
   </a>
 </p>
 
-
-
-
-
-
-  
-
-<hr>
 <br>
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <br>
 
