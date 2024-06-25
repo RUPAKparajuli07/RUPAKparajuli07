@@ -1,18 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300" width="200">
 
-
-<center>
-  <h1 align="center">Hi 👋, I'm Rupak Parajuli</h1>
   <p>Hello, my name is Rupak Parajuli, and I hail from the beautiful country of Nepal. I recently completed my Diploma in Computer Engineering from Kathmandu Institute of Technology, where I gained a solid foundation in various aspects of computer systems and programming. Throughout my academic journey, I've developed a keen interest in Python programming language, which has led me to delve deeper into its intricacies.
 
 I am passionate about leveraging Python's versatility and power to develop innovative solutions in areas such as data analysis, machine learning, and web development. My current focus is on honing my skills through hands-on projects and continuous learning, exploring Python's capabilities to create efficient and scalable software solutions.
