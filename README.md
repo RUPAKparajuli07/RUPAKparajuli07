@@ -66,7 +66,7 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
 <h1 align="center">GitHub Status 🏆</h1>
 <p align="center">
   <a href="https://github.com/RUPAKparajuli07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUPAKparajuli07&theme=radical&border=7F3FBF&background=0D1117" alt="RUPAKparajuli07's GitHub streak"/>
   </a>
 </p>
 
