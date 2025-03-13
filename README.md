@@ -19,10 +19,10 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
   <br>
 
 <p align="center">  
-  <a href="https://www.youtube.com/@educationhub-cr7" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@eaasylearn" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="50" width="50" />
   </a>
-  <a href="https://www.facebook.com/RupakSpammy" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/Prupak07" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/rupakascoder/" target="_blank" rel="noopener noreferrer">
@@ -31,7 +31,7 @@ Looking ahead, I am enthusiastic about the opportunities to grow professionally,
   <a href="https://x.com/rupak_spammy" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r_p07npl" height="50" width="50" />
   </a>
-  <a href="https://www.instagram.com/iamspammy_7/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/p_rupak7/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50" />
   </a>
 </p>
