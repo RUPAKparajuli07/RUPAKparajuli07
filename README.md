@@ -1,6 +1,6 @@
 <img align="right" width=300px alt="img not found" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300" width="200">
 <p>
-Hello, my name is Rupak Parajuli, and I hail from the beautiful country of Nepal. I recently graduated with a Diploma in Computer Engineering from Kathmandu Institute of Technology, an experience that not only equipped me with technical skills but also instilled in me a deep appreciation for problem-solving in the realm of technology.
+Hello, my name is Rupak Parajuli, and I Hail from the beautiful country of Nepal. I recently graduated with a Diploma in Computer Engineering from Kathmandu Institute of Technology, an experience that not only equipped me with technical skills but also instilled in me a deep appreciation for problem-solving in the realm of technology.
 
 My journey into the world of computer engineering began with a fascination for how technology shapes our daily lives. During my studies, I immersed myself in various subjects, from software development to network administration, gaining hands-on experience that solidified my passion for programming.
 
